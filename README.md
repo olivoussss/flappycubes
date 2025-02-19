@@ -1,5 +1,5 @@
 # flappycubes
-Dobře, takže: Hra se jmenuje Flappy Cubes. Jako malý jsem rád hrával Flappy Bird, a tak jsem vytvořil vlastní verzi s kostkami místo ptáků. Nejsem sice tak nadaný, aby hra byla dokonale propracovaná, ale velmi jsem se snažil a věnoval tomu hodně času. Hra je sformovaná s pomocí ChatGPT. Je to vlastně na principu Flappy Bird, ale jsou tam kostky.
+Hra se jmenuje Flappy Cubes. Jako malý jsem rád hrával Flappy Bird, a tak jsem vytvořil vlastní verzi s kostkami místo ptáků. Nejsem sice tak nadaný, aby hra byla dokonale propracovaná, ale velmi jsem se snažil a věnoval tomu hodně času. Hra je sformovaná s pomocí ChatGPT. Je to vlastně na principu Flappy Bird, ale jsou tam kostky.
 
 
 # ping pong
